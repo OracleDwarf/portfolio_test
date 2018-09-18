@@ -1,0 +1,19 @@
+{
+  "name": "starting_todo",
+  "version": "1.0.0",
+  "description": "i make my world",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OracleDwarf/portfolio_test.git"
+  },
+  "author": "oracledwarf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OracleDwarf/portfolio_test/issues"
+  },
+  "homepage": "https://github.com/OracleDwarf/portfolio_test#readme"
+}
