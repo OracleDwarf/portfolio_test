@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "dependencies": {
+    "debug": "^3.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OracleDwarf/portfolio_test.git"
